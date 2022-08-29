@@ -1,0 +1,54 @@
+1. Summary
+https://cmichel.io/how-to-become-a-smart-contract-auditor/
+
+
+2. Solidity Basics
+https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org
+https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+
+Main focus
+-blockchain and smart contracts definitions
+-solidity syntax and test on Remix
+-how to use metamask
+-ERC20/ERC721, Chainlink
+-upgrade smart contracts using proxy
+-deploy smart contract using brownie
+
+https://github.com/manojpramesh/solidity-cheatsheet
+https://cryptozombies.io/
+
+
+3. Study well-known attacks from CTF(Capture the Flag)
+https://consensys.github.io/smart-contract-best-practices/attacks/
+https://cmichel.io/damn-vulnerable-de-fi-solutions/
+https://cmichel.io/ethernaut-solutions/
+
+
+4. Learn past reports of Code4rena
+https://code4rena.com/reports/
+It is good to learn at least all the reports on the contests held this year.
+Gas Optimization focuses on High/Med/Low because the prize money is small and it is not considered in other competitions.
+
+
+5. Real contests
+- Immunefi
+https://immunefi.com/explore/?sort=date%3Adesc&filter=
+
+By creating a Discord account, you can immediately login and participate in contests. 
+If you go to Discord's resources, you can find more learning materials.
+It is good to start with projects that have recently started as prize money is awarded only to the first person who finds a mistake. 
+In principle, the report must be submitted within 3 days after the project is released.
+
+- Code4rena
+https://code4rena.com/contests/
+
+First, you should understand how it works through Docs.
+Once you have created a Discord account and approved, you can enter the contest.
+
+
+6. Metamask wallet
+All rewards are sent with crypto and you should create a metamask wallet.
+With Code4rena contests, rewards are sent using Polygon network and you should add the network after create the wallet.
+
+https://myterablock.medium.com/how-to-create-or-import-a-metamask-wallet-a551fc2f5a6b
+https://academy.binance.com/en/articles/how-to-add-polygon-to-metamask
